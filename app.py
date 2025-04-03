@@ -5,7 +5,7 @@ import time
 app = Flask(__name__)
 
 
-API_KEY = "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"
+API_KEY = #use your own api key
 MODEL_NAME = "HuggingFaceH4/zephyr-7b-beta"
 
 
